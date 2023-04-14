@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RabbitMQUsage/.vs
+/RabbitMQUsage/RabbitMQUsage/bin/Debug/net7.0
+/RabbitMQUsage/RabbitMQUsage/obj
+/RabbitMQUsage/RabbitMQUsage/Properties
+/RabbitMQUsage/RabbitMQUsageConsumer/bin/Debug/net7.0
+/RabbitMQUsage/RabbitMQUsageConsumer/obj
